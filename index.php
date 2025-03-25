@@ -2,7 +2,7 @@
  		header("Content-Type: application/json");
 
      $response = '{
-         "ResultCode": 0, 
+         "ResultCode": 200, 
          "ResultDesc": "Confirmation Received Successfully"
      }';
  
